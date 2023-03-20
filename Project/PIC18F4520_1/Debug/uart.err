@@ -1,0 +1,5 @@
+Warning[2066] C:\Users\micha_5j3z6p3\Desktop\MPLAB\Serial\Final Project.X\uart.c 11 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\micha_5j3z6p3\Desktop\MPLAB\Serial\Final Project.X\uart.c 17 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\micha_5j3z6p3\Desktop\MPLAB\Serial\Final Project.X\uart.c 22 : suspicious pointer conversion
+Warning[2066] C:\Users\micha_5j3z6p3\Desktop\MPLAB\Serial\Final Project.X\uart.c 22 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\micha_5j3z6p3\Desktop\MPLAB\Serial\Final Project.X\uart.c 23 : suspicious pointer conversion
